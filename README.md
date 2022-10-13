@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
-Python Lover💜
+Python Lover
 
 ## 🔭 Interesting
 
