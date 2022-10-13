@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
-Python Lover
+Python Lover 🔥<br/>
 DKU CE 18 MINJUN JUNG
 
 ## 🔭 Interesting
