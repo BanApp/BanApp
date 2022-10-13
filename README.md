@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ## 🤯 ME
 Python Lover
+DKU CE 18 MINJUN JUNG
 
 ## 🔭 Interesting
 
