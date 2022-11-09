@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
-Python Lover 🔥<br/>
+백엔드 찍먹하는 AI엔지니어🔥<br/>
 DKU CE 18 MINJUN JUNG
 
 ## 🔭 Interesting
@@ -58,6 +58,12 @@ DKU CE 18 MINJUN JUNG
 ![C Badge](https://img.shields.io/badge/C-073551?style=flat&logo=C&logoColor=A8B9CC)
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=#E34F26)
+
+![Tesorflow Badge](https://img.shields.io/badge/Tensorflow-white?style=flat&logo=Tensorflow&logoColor=FF6F00)
+
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-073551?style=flat&logo=PyTorch&logoColor=EE4C2C)
+
+![Keras Badge](https://img.shields.io/badge/Keras-2496ED?style=flat&logo=Keras&logoColor=D00000)
 
 ***
 
