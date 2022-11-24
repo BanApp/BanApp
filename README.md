@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 
 ## 🤯 ME
 백엔드 찍먹하는 AI엔지니어🔥<br/>
-DKU CE 18 MINJUN JUNG
+
+- DKU CE 18 MINJUN JUNG
+- K-IUM AI Competition Winner(경북대학교 병원장상(최우수))
+
 
 ## 🔭 Interesting
 
