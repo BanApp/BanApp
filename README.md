@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 백엔드 찍먹하는 AI엔지니어🔥<br/>
 
 - DKU CE 18 MINJUN JUNG
-- K-IUM AI Competition Winner(경북대학교 병원장상(최우수))
+- K-IUM AI Competition Winner(경북대학교 병원장상(최우수(Top Prize)))
 - 2022 4th SmartCity Ideathon(AI Service) Winner(장려상(3rd))
 
 
