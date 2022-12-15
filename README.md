@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### - DKU CE 18 MINJUN JUNG
 ### - K-IUM AI Competition Winner : 경북대학교 병원장상(최우수(Top Prize))
 ### - 2022 4th SmartCity Ideathon(AI Service) Winner: 장려상(3rd)
+### - WINS.Co.LTD.: Intern(2023.01.02 ~)
 
 
 ## 🔭 Interesting
