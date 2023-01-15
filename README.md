@@ -48,6 +48,10 @@ Here are some ideas to get you started:
 
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 
+![Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=red)
+
+![Mongo DB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
 ***
 
 ## 🔥 Using
@@ -65,6 +69,8 @@ Here are some ideas to get you started:
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-073551?style=flat&logo=PyTorch&logoColor=EE4C2C)
 
 ![Keras Badge](https://img.shields.io/badge/Keras-2496ED?style=flat&logo=Keras&logoColor=D00000)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ***
 
