@@ -1,6 +1,7 @@
 # DKU CE 18 *MINJUN JUNG*
 
-![python-programming-import-all-the-things](https://user-images.githubusercontent.com/93313445/170874751-f2000827-f04c-4c1a-b160-5292031f96b9.jpg)
+<img src= https://user-images.githubusercontent.com/93313445/215277859-c6e3c0a8-844b-41f6-806e-76ed61198281.jpg width="400" height="450">
+
 
 
 
