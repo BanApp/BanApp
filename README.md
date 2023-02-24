@@ -45,13 +45,7 @@ Here are some ideas to get you started:
 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>)
 
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
-
 ![Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=red)
-
-![Mongo DB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ***
 
@@ -72,6 +66,12 @@ Here are some ideas to get you started:
 ![Keras Badge](https://img.shields.io/badge/Keras-2496ED?style=flat&logo=Keras&logoColor=D00000)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+
+![Mongo DB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ***
 
