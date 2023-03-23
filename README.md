@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Interesting
 
-*Back-End* [![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-yellow?style=flat&logo=Spring%20Boot&logoColor=6DB33F) ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)]
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 
 ![AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=FF7800)
 
@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ## 🌱 Learning
 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>)
+
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-yellow?style=flat&logo=Spring%20Boot&logoColor=6DB33F)
 
 ![Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=red)
 
