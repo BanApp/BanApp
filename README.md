@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Interesting
 
-### - AI:robot: & DataScience:space_invader:
+### - AI:robot: & Data Science:space_invader:
 ### 
 
 
