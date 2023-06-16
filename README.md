@@ -87,6 +87,10 @@ Here are some ideas to get you started:
 
 ## 💾 Tech Blog
 
+[![텍스트](https://contentstatic.techgig.com/thumb/msid-86680395,width-460,resizemode-4/Top-5-tech-blogs-that-every-software-developer-should-follow.jpg?9768)](https://geek-inside.tistory.com)
+
+##  :point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2: Click :point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2:
+
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://geek-inside.tistory.com)
 
 
