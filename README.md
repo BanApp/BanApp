@@ -24,10 +24,13 @@ Here are some ideas to get you started:
 ### 백엔드 찍먹하는 AI엔지니어🔥<br/>
 
 ### - DKU CE 18 MINJUN JUNG
-### - K-IUM AI Competition Winner : 경북대학교 병원장상(최우수(Top Prize))
-### - 2022 4th SmartCity Ideathon(AI Service) Winner: 장려상(3rd)
-### - LG Aimers 2nd: Trainee(2023.01.02 ~02.28)
 
+### - K-IUM AI Competition Winner(경북대학교 병원장상) : 최우수상(1st)
+### - 2022 4th SmartCity Ideathon(AI Service) Winner : 장려상(3rd)
+### - 2023 Smart Building BigData Competition Winner : 최우수상(1st)
+
+### - LG Aimers 2nd: Trainee(2023.01.02 ~02.28)
+### - SKT AI Challnger(2023.06.26 ~ 2023.08.31)
 
 ## 🔭 Interesting
 
