@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### - K-IUM AI Competition Winner(경북대학교 병원장상) : 최우수상(1st):1st_place_medal:
 ### - 2022 4th SmartCity Ideathon(AI Service) Winner : 장려상(3rd):3rd_place_medal:
-### - 2023 Smart Building BigData Competition Winner : 최우수상(1st):1st_place_medal:
+### - 2023 SmartBuilding BigData Competition Winner : 최우수상(1st):1st_place_medal:
 ###
 
 ## :office: Edu or Intern
