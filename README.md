@@ -1,9 +1,7 @@
 # 단국대학교 컴퓨터공학과 18학번 *정민준*
 
 
-<img src= [https://github.com/BanApp/BanApp/assets/93313445/fc22c944-fd8d-4d41-9e71-78177a871da0](https://github.com/BanApp/BanApp/assets/93313445/fc22c944-fd8d-4d41-9e71-78177a871da0) width="400" height="450">
-
-
+![6245714797a7f31556d375bf_QKkdRSny0fML74gNx4UtVXNomeMjPOVI1e6Oxmp3kkzh4yneFCYgkcEfzDciD18U3jazUM3OIoqnjByNKsVSknTiNCJsedKTwBIwuGAgOQBZomoX1up7ekiHno6rrPMfDSXPBK_H](https://github.com/BanApp/BanApp/assets/93313445/8495d792-e3f3-47f8-bc35-5af276b6d403)
 
 
 <!--
