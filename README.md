@@ -20,18 +20,20 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
-### 백엔드 찍먹하는 AI엔지니어🔥<br/>
+### - 백엔드 찍먹하는 AI엔지니어🔥<br/>
 
 ### - DKU CE 18 MINJUN JUNG
 
+### - Be My Plant!(단국대학교 창업 동아리): Project Leader
+
 ## :trophy: Award
 
-### - 2022 K-IUM AI 경진대회 : 최우수상(1st):1st_place_medal:
-### - 2022 4th 스마트시티 아이디어톤(AI 서비스 부문) : 장려상(3rd):3rd_place_medal:
-### - 2023 스마트빌딩 빅데이터 경진대회 : 최우수상(1st):1st_place_medal:
+### - [2022 K-IUM 의료 인공지능 경진대회 : 최우수상(1st):1st_place_medal:](https://github.com/BanApp/2022_K-Ium_AI_Competition)
+### - [2022 4th 스마트시티 아이디어톤(AI 서비스 부문) : 장려상(3rd):3rd_place_medal:](https://github.com/BanApp/2022_SmartCity_Ideathon_AI)
+### - [2023 스마트빌딩 빅데이터 경진대회 : 최우수상(1st):1st_place_medal:](https://github.com/BanApp/SmartBuilding-BigData-Competition)
 ###
 
-## :office: Edu or Intern
+## :office: Edu & Intern
 ### - LG Aimers 2nd: Trainee(2023.01.02 ~02.28)
 ### - SKT AI Challnger(2023.06.26 ~ 2023.08.31)
 ###
