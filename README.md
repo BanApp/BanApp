@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ## :office: Edu & Intern
 ### - LG Aimers 2nd: Trainee(2023.01.02 ~02.28)
-### - SKT AI Challnger(2023.06.26 ~ 2023.08.31)
-###
+### - SKT AI Challnger(2023.06.26 ~ 2023.09.01)
+
 
 
 
