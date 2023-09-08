@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### - [2022 4th 스마트시티 아이디어톤(AI 서비스 부문) : 장려상(3rd):3rd_place_medal:](https://github.com/BanApp/2022_SmartCity_Ideathon_AI)
 ### - [2023 스마트빌딩 빅데이터 경진대회 : 최우수상(1st):1st_place_medal:](https://github.com/BanApp/SmartBuilding-BigData-Competition)
 ### - [2023 SKT FLY AI Challenger 3기(프로젝트 부문): 우수상(3rd):3rd_place_medal:](https://github.com/BanApp/A.Dance-Backend)
-### - SKT & 하나금융그룹 TECH4GOOD 해커톤 : 최우수상(2nd):2nd_place_medal:
+### - [SKT & 하나금융그룹 TECH4GOOD 해커톤 : 최우수상(2nd):2nd_place_medal:](https://github.com/BanApp)
 
 
 ## :office: Edu & Intern
