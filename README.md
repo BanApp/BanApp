@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## :office: Experiences
 ### - LG Aimers 2nd: Trainee(2023.01.02 ~ 02.28)
 ### - SKT FLY AI Challnger 3rd (2023.06.26 ~ 2023.09.01)
-### - Be My Plant!(단국대학교 창업 동아리): 팀장(2023.04 ~)[](https://github.com/BanApp/BeMyPlant_Backend)
+### - [Be My Plant!(단국대학교 창업 동아리): 팀장(2023.04 ~)](https://github.com/BanApp/BeMyPlant_Backend)
 
 
 
