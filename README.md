@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ## 🤯 ME
 ### - AI & Backend Engineer🔥
-
 ### - DKU CE 18 MINJUN JUNG
 
 ## :trophy: Award
