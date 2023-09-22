@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
-### - AI 엔지니어링을 좋아하는 백엔드 개발자🔥<br/>
+### - AI & Backend Engineer🔥
 
 ### - DKU CE 18 MINJUN JUNG
-
-### - Be My Plant!(단국대학교 창업 동아리): Project Leader
 
 ## :trophy: Award
 
@@ -32,12 +30,14 @@ Here are some ideas to get you started:
 ### - [2022 4th 스마트시티 아이디어톤(AI 서비스 부문) : 장려상(3rd):3rd_place_medal:](https://github.com/BanApp/2022_SmartCity_Ideathon_AI)
 ### - [2023 스마트빌딩 빅데이터 경진대회 : 최우수상(1st):1st_place_medal:](https://github.com/BanApp/SmartBuilding-BigData-Competition)
 ### - [2023 SKT FLY AI Challenger 3기(프로젝트 부문): 우수상(3rd):3rd_place_medal:](https://github.com/BanApp/A.Dance-Backend)
-### - [2023 SKT & 하나금융그룹 TECH4GOOD 해커톤 : 최우수상(2nd):2nd_place_medal:](https://www.thedailypost.kr/news/articleView.html?idxno=101478))
+### - [2023 SKT & 하나금융그룹 TECH4GOOD 해커톤 : 최우수상(2nd):2nd_place_medal:](https://www.thedailypost.kr/news/articleView.html?idxno=101478)
 
 
-## :office: Edu & Intern
+## :office: Experiences
 ### - LG Aimers 2nd: Trainee(2023.01.02 ~ 02.28)
 ### - SKT FLY AI Challnger 3rd (2023.06.26 ~ 2023.09.01)
+### - Be My Plant!(단국대학교 창업 동아리): 팀장(2023.04 ~)[](https://github.com/BanApp/BeMyPlant_Backend)
+
 
 
 
