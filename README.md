@@ -1,7 +1,5 @@
-# 단국대학교 컴퓨터공학과 18학번 정민준
-
-
-![6245714797a7f31556d375bf_QKkdRSny0fML74gNx4UtVXNomeMjPOVI1e6Oxmp3kkzh4yneFCYgkcEfzDciD18U3jazUM3OIoqnjByNKsVSknTiNCJsedKTwBIwuGAgOQBZomoX1up7ekiHno6rrPMfDSXPBK_H](https://github.com/BanApp/BanApp/assets/93313445/8495d792-e3f3-47f8-bc35-5af276b6d403)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=MinJun%20Jung's%20GitHub&fontSize=80&fontColor=9E0ADD" />
+<!--![6245714797a7f31556d375bf_QKkdRSny0fML74gNx4UtVXNomeMjPOVI1e6Oxmp3kkzh4yneFCYgkcEfzDciD18U3jazUM3OIoqnjByNKsVSknTiNCJsedKTwBIwuGAgOQBZomoX1up7ekiHno6rrPMfDSXPBK_H](https://github.com/BanApp/BanApp/assets/93313445/8495d792-e3f3-47f8-bc35-5af276b6d403)-->
 
 
 <!--
@@ -20,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
-### - AI & Backend Engineer🔥
 ### - DKU CE 18 MINJUN JUNG
+### - Backend Engineer🔥
+### - Studying AI🔭
 
 ## :trophy: Award
 
@@ -100,9 +99,6 @@ Here are some ideas to get you started:
 [![텍스트](https://contentstatic.techgig.com/thumb/msid-86680395,width-460,resizemode-4/Top-5-tech-blogs-that-every-software-developer-should-follow.jpg?9768)](https://geek-inside.tistory.com)
 
 ##  :point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2: Click :point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2:
-
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://geek-inside.tistory.com)
-
 
 
 
