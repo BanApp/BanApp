@@ -1,4 +1,4 @@
-
+# 단국대학교 컴퓨터공학과 18학번 정민준
 
 
 ![6245714797a7f31556d375bf_QKkdRSny0fML74gNx4UtVXNomeMjPOVI1e6Oxmp3kkzh4yneFCYgkcEfzDciD18U3jazUM3OIoqnjByNKsVSknTiNCJsedKTwBIwuGAgOQBZomoX1up7ekiHno6rrPMfDSXPBK_H](https://github.com/BanApp/BanApp/assets/93313445/8495d792-e3f3-47f8-bc35-5af276b6d403)
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
+### - AI & Backend Engineer🔥
+### - DKU CE 18 MINJUN JUNG
 
 ## :trophy: Award
 
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 ## :office: Experiences
 ### - LG Aimers 2nd: Trainee(2023.01.02 ~ 02.28)
 ### - SKT FLY AI Challnger 3rd (2023.06.26 ~ 2023.09.01)
-### - [Be My Plant!(창업 동아리): 팀장(2023.04 ~)](https://github.com/BanApp/BeMyPlant_Backend)
+### - [Be My Plant!(단국대학교 창업 동아리): 팀장(2023.04 ~)](https://github.com/BanApp/BeMyPlant_Backend)
 
 
 
