@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
-### - DKU CE 18 MINJUN JUNG
+### - DKU CE 18 MINJUN JUNG👨🏻‍💻
 ### - Backend Engineer🔥
-### - Studying AI🔭
+### - AI Engineer🔭
 
 ## :trophy: Award
 
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 ## 🔭 Interesting
 
-### - AI:robot: 
-### - Data Science & Engineering:space_invader:
-### - Backend:computer:
+### - AI🤖 
+### - Data Science & Engineering👾
+### - Backend💻
 
 
 
