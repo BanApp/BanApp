@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 ## :office: Experiences
 ### - LG Aimers 2nd: Trainee(2023.01.02 ~ 02.28)
 ### - SKT FLY AI Challnger 3rd (2023.06.26 ~ 2023.09.01)
-### - [Be My Plant!(단국대학교 창업 동아리): 팀장(2023.04 ~ 2023.12)](https://github.com/BanApp/BeMyPlant_Backend)
+### - 단국대학교 창업 동아리 "BeMyPlant!" (2023.04 ~ 2023.12)
+### - HL Klemove Platfom SW Team(2024.02 ~ )
 
 
 
@@ -40,8 +41,8 @@ Here are some ideas to get you started:
 ## 🔭 Interesting
 
 ### - AUTOSAR🚘
-### - AI🤖 
-### - Data Science & Engineering👾
+### - Autonomous Driving🤖 
+### - Data Science & AI👾
 
 ## 🌱 Learning
 
@@ -77,15 +78,6 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Mongo DB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Maria DB Badge](https://img.shields.io/badge/MariaDB-073551?style=flat&logo=mariaDB&logoColor=white)
-
-
-
-## 💾 Tech Blog
-
-[![텍스트](https://contentstatic.techgig.com/thumb/msid-86680395,width-460,resizemode-4/Top-5-tech-blogs-that-every-software-developer-should-follow.jpg?9768)](https://geek-inside.tistory.com)
-
-##  :point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2: Click :point_up_2::point_up_2::point_up_2::point_up_2::point_up_2::point_up_2:
-
 
 
 ## 📘 Algorithm
