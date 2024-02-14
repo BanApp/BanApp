@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 ### - [2023 SKT & 하나금융그룹 TECH4GOOD 해커톤 : 최우수상(2nd)🥈](https://www.thedailypost.kr/news/articleView.html?idxno=101478)
 
 
-## 📖 Education
-### - LG Aimers 2nd: Trainee(2023.01.02 ~ 02.28)
-### - SKT FLY AI Challnger 3rd (2023.06.26 ~ 2023.09.01)
+## 📖 Education & Experience
+### - DKU Computer Engineering : Bachelor (2018.03 ~ 2024.02)
+### - LG Aimers 2nd: Trainee (2023.01 ~ 2023.02)
+### - SKT FLY AI Challnger 3rd (2023.06 ~ 2023.09)
 ### - 단국대학교 창업 동아리 "BeMyPlant!" (2023.04 ~ 2023.12)
 
 
