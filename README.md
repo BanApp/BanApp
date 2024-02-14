@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
-### - Autonomous Driving/Parking SW Developer🔥
+### - Autonomous Driving/Parking SW Developer
 
 ## :office: Work Experience
 ### - HL Klemove Platfom SW Team(2024.02 ~ )
