@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ## 🤯 ME
 ### - Autonomous Driving/Parking SW Developer🔥
 
+## :office: Work Experience
+### - HL Klemove Platfom SW Team(2024.02 ~ )
+
 ## :trophy: Award
 
 ### - [2022 K-IUM 의료 인공지능 경진대회 : 최우수상(1st)🥇](https://github.com/BanApp/2022_K-Ium_AI_Competition)
@@ -29,13 +32,10 @@ Here are some ideas to get you started:
 ### - [2023 SKT & 하나금융그룹 TECH4GOOD 해커톤 : 최우수상(2nd)🥈](https://www.thedailypost.kr/news/articleView.html?idxno=101478)
 
 
-## :office: Experiences
+## 📖 Education
 ### - LG Aimers 2nd: Trainee(2023.01.02 ~ 02.28)
 ### - SKT FLY AI Challnger 3rd (2023.06.26 ~ 2023.09.01)
 ### - 단국대학교 창업 동아리 "BeMyPlant!" (2023.04 ~ 2023.12)
-### - HL Klemove Platfom SW Team(2024.02 ~ )
-
-
 
 
 ## 🔭 Interesting
