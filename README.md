@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 
 
 ## 📖 Education & Experience
+
 ### - DKU Computer Engineering : Bachelor (2018.03 ~ 2024.02)
-### - LG Aimers 2nd: Trainee (2023.01 ~ 2023.02)
+### - LG Aimers 2nd (2023.01 ~ 2023.02)
 ### - SKT FLY AI Challnger 3rd (2023.06 ~ 2023.09)
-### - 단국대학교 창업 동아리 "BeMyPlant!" (2023.04 ~ 2023.12)
+### - 단국대학교 창업 동아리 "Be My Plant!" (2023.04 ~ 2023.12)
 
 
 ## 🔭 Interesting
