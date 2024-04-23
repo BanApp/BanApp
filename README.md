@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 ## 🌱 Learning
 
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=blue&labelColor=lightgrey)
 
 ## 🔥 Using
 
@@ -57,6 +56,7 @@ Here are some ideas to get you started:
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=red) 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>) 
 ![C Badge](https://img.shields.io/badge/C-073551?style=flat&logo=C&logoColor=A8B9CC)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=blue&labelColor=lightgrey)
 
 ### AI
 
