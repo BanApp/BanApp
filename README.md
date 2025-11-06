@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 ME
-### - Autonomous Driving/Parking SW Developer
+### - SW Developer
 
 ## :office: Work Experience
 ### - HL Klemove Platform SW Team(2024.02 ~ )
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ### - LG Aimers 2nd (2023.01 ~ 2023.02)
 ### - SKT FLY AI Challenger 3rd (2023.06 ~ 2023.09)
 ### - 단국대학교 창업 동아리 "Be My Plant!" (2023.04 ~ 2023.12)
+### - Google MachineLearning BootCamp 5th" (2024.06 ~ 2024.10)
 
 
 ## 🔭 Interesting
